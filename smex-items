@@ -1,20 +1,25 @@
 
 ;; ----- smex-history -----
 (
- lisp-mode
- ac-complete-slime
- cd
- 5x5
- arp
- dbx
- dig
+ elpy-config
+ package-install
+ pyvenv-activate
+ pyvenv-workon
+ desktop-clear
+ jedi:install-server
+ list-packages
 )
 
 ;; ----- smex-data -----
 (
- (eaf-open . 19)
- (eaf-mode . 2)
- (ac-complete-slime . 2)
- (slime . 2)
- (lisp-mode . 1)
+ (package-menu-mode . 2)
+ (load-theme . 11)
+ (package-install . 5)
+ (pyvenv-activate . 7)
+ (list-packages . 2)
+ (jedi:install-server . 1)
+ (yas-new-snippet . 1)
+ (desktop-clear . 1)
+ (elpy-config . 20)
+ (pyvenv-workon . 2)
 )

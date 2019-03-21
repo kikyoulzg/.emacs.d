@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: stdio for c
+# key: io
+# --
+#include <stdio.h>
